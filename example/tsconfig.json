@@ -1,8 +1,7 @@
 {
     "compilerOptions": {
         "target": "ES6",
-        "outDir": "./dist",
-        "watch": true
-    },
+        "outDir": "./dist"
+      },
     "include": ["./src"]
 }
